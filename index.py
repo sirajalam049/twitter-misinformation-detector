@@ -6,7 +6,7 @@ similarityDegreeValue = 2
 negations = ["not", "no", "never", "lie", "lying", "not true", "false", "hardly", "rarely", "scarcely", "none", "fake" ]
 
 parent = "Petrol prices reaches 80 in delhi"
-
+`
 tweets = [
     "Petrol prices hiked in delhi",
     "petrol prices in delhi increased",
